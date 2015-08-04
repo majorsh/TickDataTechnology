@@ -1,1 +1,2 @@
-this is a test message.
+Git is a distributed version control system.
+Git is free software.
