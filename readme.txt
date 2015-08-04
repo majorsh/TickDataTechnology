@@ -5,3 +5,5 @@ newmessage is added.
 newly added message
 
 git log
+
+Git has a mutable index called stage.
